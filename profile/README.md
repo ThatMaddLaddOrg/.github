@@ -23,7 +23,7 @@ We specialize in:
 
 ## 🧩 Featured Projects
 
-🔹 [**Ticket Genie Dashboard**](https://github.com/ThatMaddLaddOrg/dashboard)
+🔹 [**Ticket Genie Dashboard**](https://github.com/ThatMaddLaddOrg/dashboard) <br>
 🔹 [**Ticket Genie Worker**](https://github.com/ThatMaddLaddOrg/worker)
 *An all-in-one ticketing bot + dashboard, fully Dockerized and Discord Verified-ready.*
 
